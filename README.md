@@ -6,7 +6,7 @@ Passo-a-passo
 
 - Criar Função que recebe o array.
 - Colocar o Array em ordem crescente.
-  - Utilisei o metodh sort() para ordem.
+  - Utilizei o metodh sort() para ordem.
 - Exibir os números duplicados no array.
   - usando o for para percorrer o array e fazer a comparação dos números e colocar o resultado dentro de uma variavel duplicate com o method push()
 - Retornando na função a variavel duplicate.
